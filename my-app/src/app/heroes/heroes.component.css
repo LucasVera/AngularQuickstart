@@ -1,0 +1,23 @@
+li {
+    width: fit-content;
+    padding: 0.2em;
+}
+
+li:hover {
+    font-style: italic;
+    font-weight: bolder;
+    color: #75afc6;
+    cursor: pointer;
+}
+
+.badge {
+    border-radius: 35%;
+    background-color: #8295aa;
+    color: darkslategrey;
+    padding: 0 0.2em;
+}
+
+.selected {
+    background-color: #6e7e8f;
+    border-radius: 10%;
+}

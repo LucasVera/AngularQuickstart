@@ -1,0 +1,18 @@
+button {
+    border-radius: 30%;
+    padding: 0.5em;
+    margin: 0.35em;
+    background-color: #677786;
+    color: #fff;
+    font-size: 100%;
+    width: fit-content;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #536d86;
+}
+
+.message {
+    padding: 0.1em;
+}

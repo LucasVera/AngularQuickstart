@@ -1,0 +1,9 @@
+button {
+    border-radius: 30%;
+    padding: 0.5em;
+    margin: 0.5em 0.1em;
+    background-color: #677786;
+    color: #fff;
+    font-size: 100%;
+    width: fit-content;
+}
